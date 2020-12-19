@@ -1,0 +1,4 @@
+# Bangla-Characters-Prediction-using-CNN
+
+If you only want to predict letters than you only need to run (3  Detecting Character.ipynb) this file 
+or if you want to train the CNN you need to run 1,2 then you have to run number 3  file.
